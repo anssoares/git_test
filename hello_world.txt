@@ -1,2 +1,3 @@
 Hello World testing commit messages with subject and body
-de novo
+de novo, agora incluindo a mensagem no vscode em vez do vim.
+
